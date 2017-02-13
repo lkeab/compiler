@@ -1,0 +1,9 @@
+
+int I[6];
+
+int i=0;
+while(i<6)
+{
+	I[i] = i;
+	i=i+1;
+}

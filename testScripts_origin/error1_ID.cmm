@@ -1,0 +1,17 @@
+
+int _a;
+double 3_a;
+int a@com;
+
+int i=0;
+while(i<6)
+{
+	write(i);
+	i=i+1;
+}
+
+int i=10;
+
+/*output
+
+*///:~

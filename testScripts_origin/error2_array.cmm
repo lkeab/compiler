@@ -1,0 +1,20 @@
+
+
+double R[6];
+int I[2];
+
+int i=0;
+
+
+while(i<7)
+{
+	R[i] = i;
+	i=i+1;
+}
+
+I[-2] = -1;
+
+/*output:
+
+*///:~
+
